@@ -1,6 +1,6 @@
 # About
 
-Speedb is a library that provides persistent key-value store TEST.&#x20;
+Speedb is a library that provides persistent key-value store.&#x20;
 
 Keys and values are arbitrary byte arrays. The keys are ordered within the key-value store according to a user-specified comparator function.\
 \
